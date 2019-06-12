@@ -10,3 +10,7 @@ This is the GitHub home for all my research projects:
 > This project was completed at East Carolina University as part of the NCSSM Summer Ventures program. The objective was to identify, and extract BfmR protein and thus the gene responsible for the antibacterial resistance in a strain of pathogens known as _acinetobacter baumanii_. [Read](BfmR.pdf)
 
 
+**A Computational Model for the Early Detection of Primary Breast Cancer Using Differential Expression Analysis of Microarray Data from Serum microRNA _(NCSSM, Spring 2019)**
+> This project was done as part of the NCSSM coursework for "Bioinformatics/Computational Biology". As part of this study, a computational model was developed using microArray data from the NCBI GEO database, and miRNA expression values in order to predict the presence of breast cancer. [Read](microArray.pdf)
+ * Technology/Tools: R, RStudio, Bioconductor, GEOquery library
+ 
