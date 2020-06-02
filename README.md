@@ -6,6 +6,10 @@ This is the GitHub home for all my research projects:
 > This project was completed as part of the coursework for the NCSSM course "Data Science for Scientists". As part of this study, a Convolutional Neural Network was developed using dermoscopy images of benign and malignant cases of skin cancer in order to predict the test patient's chances of having a malignant melanoma. [Read](DataScienceCNN.pdf)
  * Technology/Tools: R, RStudio, keras, tensorflow, dplyr, ggplot2
 
+**A Computational Model for the Early Detection of Primary Breast Cancer Using Differential Expression Analysis of Microarray Data from Serum microRNA _(NCSSM, Fall 2019)**
+> This project was undertaken as part of the Regeneron STS research competition. Computational models using Logistic Regression and Artificial Neural Networks were used to predict the occurrence of breast cancer. Microarray data of miRNA expressions from breast cancer tissues was used to train and validate the model. The model has been exported as a proof of concept application which is available at https://mirna1.herokuapp.com/ [Read](Regeneron_STS.pdf)
+ * Technology/Tools: Python, R, Javascript, keras, tensorflow
+
 **A Computational Model for the Early Detection of Primary Breast Cancer Using Differential Expression Analysis of Microarray Data from Serum microRNA _(NCSSM, Spring 2019)**
 > This project was done as part of the NCSSM coursework for "Bioinformatics/Computational Biology". As part of this study, a computational model was developed using microArray data from the NCBI GEO database, and miRNA expression values in order to predict the presence of breast cancer. [Read](microArray.pdf)
  * Technology/Tools: R, RStudio, Bioconductor, GEOquery library
